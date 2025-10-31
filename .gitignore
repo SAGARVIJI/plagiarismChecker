@@ -1,0 +1,21 @@
+# IDE
+.idea/
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+
+# Log files
+*.log
+
+# Build directory
+out/
+
+# Generated files
+target/
+build/
